@@ -1,5 +1,7 @@
-run:
+install:
 	npm install
+
+run:
 	npm start
 
 test:
